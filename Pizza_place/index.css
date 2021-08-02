@@ -42,3 +42,21 @@
  h5 {
    color:blue;
  }
+ #mnu{
+       text-align: center;
+       color:white;
+   }
+#myForm {
+     display:none;
+   }
+   #contact {
+       background:#343a40;
+       padding-top: 2%;
+       padding-bottom: 1%;
+     }
+     .pp {
+     height:80vh;
+     }
+     .form-group{
+       color: black;
+     }
