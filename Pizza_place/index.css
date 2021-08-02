@@ -60,3 +60,26 @@
      .form-group{
        color: black;
      }
+p {
+  font-family: ubuntuUI
+} 
+.p-5{
+  border-style: solid;
+  border-color: black
+}
+.col-md-4 mx-auto py-2{
+  border-style: solid;
+  border-color: black
+}
+.list1{
+  color: purple;
+  font-style: italic;
+}
+.list2{
+  color: grey;
+  font-style: italic;
+}
+.list3{
+  color:violet;
+  font-style: italic;
+}
