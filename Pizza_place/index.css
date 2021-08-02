@@ -6,3 +6,13 @@
   .navbar a:hover {
     background:grey;
   }
+  #home {
+    background-image: url(pizza.jpeg);
+    background-attachment:fixed;
+  }.txt0 {
+    text-align: center;
+    padding-top: 300px;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+  }
